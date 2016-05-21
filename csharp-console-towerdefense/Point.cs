@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace csharp_console_towerdefense
 {
-    class Map
+    class Point
     {
-        public readonly int Width;
-        public readonly int Height;
+        public readonly int X;
+        public readonly int Y;
 
-        public Map(int width, int height)
+        public Point(int x, int y)
         {
-            Width = width;
-            Height = height;
+            X = x;
+            Y = y;
         }
     }
 }
