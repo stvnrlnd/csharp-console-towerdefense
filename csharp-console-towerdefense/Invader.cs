@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace csharp_console_towerdefense
 {
-    class Program
+    class Invader
     {
-        static void Main()
-        {
-
-        }
     }
 }

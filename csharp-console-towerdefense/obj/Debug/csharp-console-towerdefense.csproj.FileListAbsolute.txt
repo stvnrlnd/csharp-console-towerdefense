@@ -1,1 +1,6 @@
 C:\Users\stvnr_oibdnhr\OneDrive\R\csharp-console-towerdefense\csharp-console-towerdefense\bin\Debug\csharp-console-towerdefense.exe.config
+C:\Users\stvnr_oibdnhr\OneDrive\R\csharp-console-towerdefense\csharp-console-towerdefense\obj\Debug\csharp-console-towerdefense.csprojResolveAssemblyReference.cache
+C:\Users\stvnr_oibdnhr\OneDrive\R\csharp-console-towerdefense\csharp-console-towerdefense\bin\Debug\csharp-console-towerdefense.exe
+C:\Users\stvnr_oibdnhr\OneDrive\R\csharp-console-towerdefense\csharp-console-towerdefense\bin\Debug\csharp-console-towerdefense.pdb
+C:\Users\stvnr_oibdnhr\OneDrive\R\csharp-console-towerdefense\csharp-console-towerdefense\obj\Debug\csharp-console-towerdefense.exe
+C:\Users\stvnr_oibdnhr\OneDrive\R\csharp-console-towerdefense\csharp-console-towerdefense\obj\Debug\csharp-console-towerdefense.pdb
