@@ -11,7 +11,8 @@ namespace csharp_console_towerdefense
         public static void Main()
         {
             Map map = new Map(8, 5);
-            int area = map.Width * map.Height;
+            Point point = new Point(4,2);
+            bool isOnMap = map.OnMap(point);
         }
     }
 }
